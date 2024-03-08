@@ -6,6 +6,8 @@ https://github.com/Amruthavarshini75/AIML-BATCH-03/blob/main/assignment_3_part_1
 https://github.com/Amruthavarshini75/AIML-BATCH-03/blob/main/assignment_3_part_2.ipynb
 https://github.com/Amruthavarshini75/AIML-BATCH-03/blob/main/assignment_3_part_2.ipynb
 https://github.com/Amruthavarshini75/AIML-BATCH-03/blob/main/Assignment_5.ipynb
+https://github.com/Amruthavarshini75/AIML-BATCH-03/blob/main/assignment_4.ipynb
+
 
 
 
