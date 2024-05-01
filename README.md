@@ -19,6 +19,7 @@ https://github.com/Amruthavarshini75/AIML-BATCH-03/blob/main/assignment_9.ipynb
 
 
 https://github.com/Amruthavarshini75/AIML-BATCH-03/blob/main/Assignment_10.ipynb
+https://github.com/Amruthavarshini75/AIML-BATCH-03/blob/main/aiml_project.ipynb
 
 
 
